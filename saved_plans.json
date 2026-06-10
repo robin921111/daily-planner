@@ -1,0 +1,11 @@
+[
+  {
+    "selected_date": "2026-06-11",
+    "selected_date_label": "Thursday, June 11, 2026",
+    "tasks": "homework 1\nhomework 2\nhomework 3\ncook dinner",
+    "energy_level": "Medium",
+    "fixed_commitments": "class at 3 pm for 2 hours",
+    "generated_schedule": "9:00 AM - 10:30 AM: Homework 1 (1.5 hours) - Start with the most important homework task\n10:30 AM - 10:45 AM: Break - Take a short rest to refresh\n10:45 AM - 12:15 PM: Homework 2 (1.5 hours) - Focus on the second homework task\n12:15 PM - 1:15 PM: Break - Have lunch and take some time to relax\n1:15 PM - 2:45 PM: Homework 3 (1.5 hours) - Complete the third homework task\n2:45 PM - 3:00 PM: Break - Prepare for the class\n3:00 PM - 5:00 PM: Class (2 hours) - Attend the fixed class commitment\n5:00 PM - 5:15 PM: Break - Take a short break after class\n5:15 PM - 6:30 PM: Cook Dinner (1.15 hours) - Prepare a healthy dinner\n6:30 PM - 9:00 PM: Free time - Use this time to review what you've accomplished and plan for tomorrow, you've made it through a productive day.",
+    "saved_at": "2026-06-10T12:38:24"
+  }
+]
