@@ -1,22 +1,24 @@
-## Weekend Build Log
+# Changelog
 
-### Prototype 1 — Claude.ai Artifact
-- Built a Daily Planner Assistant widget inside Claude.ai
-- Input: tasks, available hours, energy level, fixed commitments
-- Output: time-blocked schedule with breaks and motivational note
-- Tested successfully with real tasks
-- No API key needed — ran directly in Claude chat
+## v1.0 — Claude.ai Artifact prototype
+- Basic task input, time pickers, energy level, fixed commitments, AI generated schedule
 
-### Prototype 2 — VS Code + Streamlit + Google Gemini
-- Rebuilt as a proper Python web app using Streamlit
-- Connected to Google Gemini API (model: gemini-1.5-flash) for schedule generation
-- API key stored securely in .env file (excluded from version control via .gitignore)
-- UI features: task input, time pickers, energy level dropdown, fixed commitments field
-- Generate and Regenerate buttons
-- Reason for choosing Gemini: free tier available, no credit card required, easy setup
+## v2.0 — VS Code rebuild
+- Switched to Python and Streamlit
+- Connected Groq API
+- Built as a local web app
 
-### What I Learned
-- How to build a web app with Python and Streamlit
-- How to connect an app to an external AI API
-- How to manage API keys securely using .env files
-- How to use VS Code's Build with Agents to generate code from plain English prompts
+## v3.0 — UI improvement
+- Schedule displayed as clean cards with emojis and columns
+
+## v4.0 — Week navigation
+- Added date display and day selector buttons
+
+## v5.0 — Save and view past plans
+- Added JSON storage and past plans dropdown
+
+## v6.0 — Export to PDF
+- Added PDF export using reportlab
+
+## v7.0 — Deployed to Streamlit Community Cloud
+- Published with a live URL
