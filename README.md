@@ -41,7 +41,3 @@ Daily Planner Assistant is a Streamlit web app that turns your tasks, available 
    ```bash
    streamlit run app.py
    ```
-
-## Live Demo
-
-[https://daily-planner-robin-9djizu26kaffvj4xjy86x6.streamlit.app/](https://daily-planner-robin-9djizu26kaffvj4xjy86x6.streamlit.app/)
