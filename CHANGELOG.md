@@ -1,24 +1,19 @@
-# Changelog
+## Changelog
 
-## v1.0 — Claude.ai Artifact prototype
+### v1.0 — Prototype 1 (Claude.ai Artifact)
 - Basic task input, time pickers, energy level, fixed commitments, AI generated schedule
 
-## v2.0 — VS Code rebuild
+### v2.0 — Prototype 2 (VS Code rebuild)
 - Switched to Python and Streamlit
 - Connected Groq API
 - Built as a local web app
+- Improved the UI with schedules displayed as clean cards with emojis and columns
 
-## v3.0 — UI improvement
-- Schedule displayed as clean cards with emojis and columns
+### v3.0 — Prototype 3 (Feature expansion)
+- Added date display at the top of the page
+- Added week navigation with day selector buttons to plan ahead
+- Added save and view past plans with JSON storage
+- Added export to PDF using reportlab
 
-## v4.0 — Week navigation
-- Added date display and day selector buttons
-
-## v5.0 — Save and view past plans
-- Added JSON storage and past plans dropdown
-
-## v6.0 — Export to PDF
-- Added PDF export using reportlab
-
-## v7.0 — Deployed to Streamlit Community Cloud
-- Published with a live URL
+### v4.0 — Deployment
+- Deployed to Streamlit Community Cloud with live URL
